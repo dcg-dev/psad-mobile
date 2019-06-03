@@ -1,0 +1,68 @@
+[
+  {
+      "id": 1,
+      "plateNumber": "TE1-12",
+      "paymentStatus": "PAID",
+      "state": "Ended",
+      "date": "December 20, 2018",
+      "startTime": "8:03 am",
+      "endTime": "10:03 am",
+      "address": "79584 Some street, something else, 45",
+      "parkingLot": "XERONK"
+  },
+  {
+    "id": 2,
+    "plateNumber": "TR 4687",
+    "paymentStatus": "PAID",
+    "state": "Ended",
+    "date": "December 20, 2018",
+    "startTime": "8:03 am",
+    "endTime": "10:03 am",
+    "address": "79584 Some street, something else, 45",
+    "parkingLot": "XERONK"
+  },
+  {
+    "id": 3,
+    "plateNumber": "NC 7974",
+    "paymentStatus": "PAID",
+    "state": "Ended",
+    "date": "December 20, 2018",
+    "startTime": "8:03 am",
+    "endTime": "10:03 am",
+    "address": "79584 Some street, something else, 45",
+    "parkingLot": "PLASMOX"
+  },
+  {
+    "id": 4,
+    "plateNumber": "NC 7974",
+    "paymentStatus": "PAID",
+    "state": "Ended",
+    "date": "December 20, 2018",
+    "startTime": "8:03 am",
+    "endTime": "10:03 am",
+    "address": "79584 Some street, something else, 45",
+    "parkingLot": "MOREGANIC"
+  },
+  {
+    "id": 5,
+    "plateNumber": "NT 8879",
+    "paymentStatus": "PAID",
+    "state": "Ended",
+    "date": "December 20, 2018",
+    "startTime": "8:03 am",
+    "endTime": "10:03 am",
+    "address": "79584 Some street, something else, 45",
+    "parkingLot": "MOREGANIC"
+  },
+  {
+    "id": 6,
+    "plateNumber": "TE1-12",
+    "paymentStatus": "PAID",
+    "state": "Ended",
+    "date": "December 20, 2018",
+    "startTime": "8:03 am",
+    "endTime": "10:03 am",
+    "address": "79584 Some street, something else, 45",
+    "parkingLot": "MOREGANIC"
+  }
+]

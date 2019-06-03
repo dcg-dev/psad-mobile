@@ -1,0 +1,10 @@
+{
+  "name": "psad_mobile",
+  "displayName": "psad_mobile",
+  "ios": {
+    "bundleIdentifier": "org.reactjs.native.example.psad-mobile",
+    "config": {
+      "googleMapsApiKey": "AIzaSyAAr1zIM-sJzK71QzYAcb8nfGS062L8kHM"
+    }
+  }
+}
