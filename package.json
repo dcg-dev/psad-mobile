@@ -31,7 +31,7 @@
     "libphonenumber-js": "^1.7.8",
     "lodash": "^4.17.11",
     "lodash.isequal": "^4.5.0",
-    "moment": "^2.23.0",
+    "moment": "^2.29.2",
     "native-base": "^2.8.1",
     "prop-types": "^15.6.2",
     "querystringify": "^2.1.0",
