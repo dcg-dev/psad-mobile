@@ -71,7 +71,7 @@
   },
   "devDependencies": {
     "@storybook/addon-storyshots": "^3.2.3",
-    "@storybook/react-native": "^3.2.3",
+    "@storybook/react-native": "^5.3.27",
     "babel-eslint": "^10.0.1",
     "babel-jest": "23.6.0",
     "babel-plugin-ignite-ignore-reactotron": "^0.3.0",
@@ -87,7 +87,7 @@
     "ignite-native-base-boilerplate": "^2.0.0",
     "ignite-standard": "^1.0.0",
     "ignite-vector-icons": "^1.1.0",
-    "jest": "23.6.0",
+    "jest": "29.3.1",
     "metro-react-native-babel-preset": "0.48.3",
     "mockery": "^2.0.0",
     "react-addons-test-utils": "~15.4.1",
